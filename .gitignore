@@ -12,7 +12,10 @@ local.properties
 *.iml
 *.iws
 *.ipr
+
+# macOS
 .DS_Store
+**/.DS_Store
 
 # IntelliJ
 *.class
